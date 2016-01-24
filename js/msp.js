@@ -132,6 +132,7 @@ var MSP = {
         '115200',
         '230400',
         '250000',
+        '500000',
     ],
     
     serialPortFunctions: // in LSB bit order 
